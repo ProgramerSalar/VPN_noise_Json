@@ -1,0 +1,117 @@
+{
+    "product_details": [
+  
+      {
+        "id": "1",
+        "name": "Buds_Explore",
+        "desc": "Up To 50 hours of playtime, Quad mic with ENC, 12mm Driver, Instacharge, Rugged Look",
+        "price": "₹1,399",
+        "old-price": "₹3,999",
+        "rating": "4.5",
+        "rating-count": "(51)",
+        "quantity": "2",
+  
+        "watch-color": [
+          {
+            "color1": "",
+            "color2": "",
+            "color3": "",
+            "extra-color": "+2"
+          }
+        ],
+        "image":"src\\assets\\Product\\Headphone\\Buds_Explore\\color-black\\one.png",
+        "color-Type": [
+          {
+            "id": "1",
+            "color-type": "Pitch Black",
+            "image": "src/assets/Product/Headphone/Buds_Explore/color-black/one.png",
+            "Pitch Black": [
+              "src/assets/Product/Headphone/Buds_Explore/color-black/one.png",
+              "src/assets/Product/Headphone/Buds_Explore/color-black/two.png",
+              "src/assets/Product/Headphone/Buds_Explore/color-black/four.png",
+              "src/assets/Product/Headphone/Buds_Explore/color-black/five.png",
+              "src/assets/Product/Headphone/Buds_Explore/color-black/six.png"
+            ]
+          },
+          {
+            "id": "2",
+            "color-type": "Cobalt Blue",
+            "image": "src/assets/Product/Headphone/Buds_Explore/color-blue/three.png",
+            "Cobalt Blue": [
+              "src/assets/Product/Headphone/Buds_Explore/color-blue/one.png",
+              "src/assets/Product/Headphone/Buds_Explore/color-blue/two.png",
+              "src/assets/Product/Headphone/Buds_Explore/color-blue/four.png",
+              "src/assets/Product/Headphone/Buds_Explore/color-blue/five.png",
+              "src/assets/Product/Headphone/Buds_Explore/color-blue/three.png"
+            ]
+          },
+          {
+            "id": "3",
+            "color-type": "Fern Green",
+            "image": "src/assets/Product/Headphone/Buds_Explore/fern-Green/one.png",
+            "Fern Green": [
+              "src/assets/Product/Headphone/Buds_Explore/fern-Green/one.png",
+              "src/assets/Product/Headphone/Buds_Explore/fern-Green/two.png",
+              "src/assets/Product/Headphone/Buds_Explore/fern-Green/four.png",
+              "src/assets/Product/Headphone/Buds_Explore/fern-Green/five.png",
+              "src/assets/Product/Headphone/Buds_Explore/fern-Green/three.png"
+            ]
+          },
+          {
+            "id": "4",
+            "color-type": "Mocha-white",
+            "image": "src/assets/Product/Headphone/Buds_Explore/Mocha-white/four.png",
+            "Mocha-white": [
+              "src/assets/Product/Headphone/Buds_Explore/Mocha-white/six.png",
+              "src/assets/Product/Headphone/Buds_Explore/Mocha-white/two.png",
+              "src/assets/Product/Headphone/Buds_Explore/Mocha-white/four.png",
+              "src/assets/Product/Headphone/Buds_Explore/Mocha-white/five.png",
+              "src/assets/Product/Headphone/Buds_Explore/Mocha-white/three.png"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Buds VS402 Gaming",
+        "desc": "SOH Playtime | Quad Mic ENC",
+        "price": "₹1,499",
+        "old-price": "₹3,999",
+        "rating": "4.8",
+        "rating-count": "(56)",
+        "quantity": "222",
+  
+        "watch-color": [
+          {
+            "color1": "",
+            "color2": "",
+            "color3": "",
+            "extra-color": "+2"
+          }
+        ],
+        "image":"src\\assets\\Product\\Buds_vs402_gaming\\Neon-white\\two.png",
+      
+        "color-Type": [
+          {
+            "id": "1",
+            "color-type": "Neon Black",
+            "image": "src\\assets\\Product\\Buds_vs402_gaming\\Neon-white\\two.png",
+            "Neon Black": [
+              "src\\assets\\Product\\Buds_vs402_gaming\\Neon-white\\two.png",
+              "src\\assets\\Product\\Buds_vs402_gaming\\Neon-white\\one.png",
+              "src\\assets\\Product\\Buds_vs402_gaming\\Neon-white\\three.png",
+              "src\\assets\\Product\\Buds_vs402_gaming\\Neon-white\\four.png",
+              "src\\assets\\Product\\Buds_vs402_gaming\\Neon-white\\five.png"
+            ]
+          }
+         
+          
+        ]
+      }
+  
+  
+  
+      
+    ]
+  }
+  
