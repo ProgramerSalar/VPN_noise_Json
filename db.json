@@ -4,8 +4,8 @@
       "id": "1",
       "name": "Buds_Explore",
       "desc": "Up To 50 hours of playtime, Quad mic with ENC, 12mm Driver, Instacharge, Rugged Look",
-      "price": "₹1,399",
-      "old_price": "₹3,999",
+      "price": "1399",
+      "old_price": "3999",
       "rating": "4.5",
       "rating_count": "(51)",
       "quantity": "2",
@@ -15,7 +15,12 @@
       "headphone": true,
       "category": "headphone",
       "default_color_type": "Pitch_Black",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_image": [
         "../assets/Product/Headphone/Buds_Explore/color-black/one.png",
         "../assets/Product/Headphone/Buds_Explore/color-black/two.png",
@@ -26,7 +31,6 @@
       "color_Type": [
         {
           "id": "1",
-
           "color_type": "Pitch_Black",
           "image": "../assets/Product/Headphone/Buds_Explore/color-black/one.png",
           "Pitch_Black": [
@@ -89,7 +93,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -99,7 +102,6 @@
             "BT": "5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": "SBC",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -172,13 +174,12 @@
         }
       ]
     },
-
     {
       "id": "2",
       "name": "Buds VS402 Gaming",
       "desc": "SOH Playtime | Quad Mic ENC",
-      "price": "₹1,499",
-      "old_price": "₹3,999",
+      "price": "1499",
+      "old_price": "3999",
       "rating": "4.8",
       "rating_count": "(56)",
       "quantity": "5",
@@ -187,7 +188,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\two.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Neon_Black",
       "default_image": [
         "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\two.png",
@@ -196,7 +202,6 @@
         "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\four.png",
         "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\six.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -234,7 +239,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -244,7 +248,6 @@
             "BT": "V5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": "SBC",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -275,13 +278,12 @@
         }
       ]
     },
-
     {
       "id": "3",
       "name": "Buds N1",
       "desc": "Up to 40 hours of playtime, 11mm driver, Quad mic with ENC, Ultra low latency, Hyper Sync",
-      "price": "₹1,299",
-      "old_price": "₹3,999",
+      "price": "1299",
+      "old_price": "3999",
       "rating": "4.8",
       "rating_count": "(56)",
       "quantity": "222",
@@ -290,7 +292,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/four.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Calm_Beige",
       "default_image": [
         "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/five.png",
@@ -299,7 +306,6 @@
         "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/two.png",
         "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/one.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -369,7 +375,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -379,7 +384,6 @@
             "BT": "V5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": " A2DP, AVRCP, HFP, SPP, AVDTP",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -410,13 +414,12 @@
         }
       ]
     },
-
     {
       "id": "4",
       "name": "Buds Xero",
       "desc": "Adaptive ANC 50dB, Chrome Finish, 6 Mic Calling, Titanium Drivers, 50 Hour Playtime",
-      "price": "₹3,999",
-      "old_price": "₹6,999",
+      "price": "3999",
+      "old_price": "6999",
       "rating": "4.8",
       "rating_count": "(56)",
       "quantity": "222",
@@ -425,7 +428,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Buds_Xero/Beig/png/three.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Calm_Beige",
       "default_image": [
         "../assets/Product/Headphone/Buds_Xero/Beig/png/five.png",
@@ -435,7 +443,6 @@
         "../assets/Product/Headphone/Buds_Xero/Beig/png/one.png",
         "../assets/Product/Headphone/Buds_Xero/Beig/png/six.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -503,13 +510,12 @@
         }
       ]
     },
-
     {
       "id": "5",
       "name": "Buds VS102 Pro",
       "desc": "Quad Mic ANC, 70 Hour Playtime, Ultra Low Latency for Gaming, Quad Mic Calling, Instacharge ",
-      "price": "₹1,399",
-      "old_price": "₹4,999",
+      "price": "1399",
+      "old_price": "4999",
       "rating": "4.8",
       "rating_count": "(261)",
       "quantity": "222",
@@ -518,7 +524,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/two.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Aurora_Green",
       "default_image": [
         "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/two.png",
@@ -526,7 +537,6 @@
         "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/three.png",
         "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/foru.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -595,13 +605,12 @@
         }
       ]
     },
-
     {
       "id": "6",
       "name": "Aura_Buds",
       "desc": "Dual Pairing, Quad Mic ENC, Low Latency(Up to 50ms), Up to 60-hour Playtime, 12mm Driver ",
-      "price": "₹1,397",
-      "old_price": "₹4,499",
+      "price": "1397",
+      "old_price": "4499",
       "rating": "4.9",
       "rating_count": "(56)",
       "quantity": "222",
@@ -610,7 +619,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/one.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Aurora_Green",
       "default_image": [
         "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/one.png",
@@ -625,7 +639,6 @@
         "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/ten.png",
         "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/eleven.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -688,7 +701,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -698,7 +710,6 @@
             "BT": "5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": " SBC & AAC",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -730,13 +741,12 @@
         }
       ]
     },
-
     {
       "id": "7",
       "name": "Pop_Buds",
       "desc": "Up To 50 hours of playtime, 10mm Driver, Quad Mic, Instacharge, Hyper Sync ",
-      "price": "₹1,199",
-      "old_price": "₹3,499",
+      "price": "1199",
+      "old_price": "3499",
       "rating": "5.0",
       "rating_count": "(56)",
       "quantity": "222",
@@ -745,7 +755,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/five.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Aurora_Green",
       "default_image": [
         "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/one.png",
@@ -754,7 +769,6 @@
         "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/four.png",
         "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/five.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -818,7 +832,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -828,7 +841,6 @@
             "BT": "V5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": " A2DP, AVRCP, HFP, SPP, AVDTP",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -860,13 +872,12 @@
         }
       ]
     },
-
     {
       "id": "8",
       "name": "Buds Combat_X_Gaming",
       "desc": "Up to 60 hours of Playtime, Spatial Audio, Gaming Mode, Low Latency (40ms), Quad Mic| ENC ",
-      "price": "₹1,399",
-      "old_price": "₹3,999",
+      "price": "1399",
+      "old_price": "3999",
       "rating": "4.9",
       "rating_count": "(32)",
       "quantity": "222",
@@ -875,7 +886,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/five.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Aurora_Green",
       "default_image": [
         "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/one.png",
@@ -884,7 +900,6 @@
         "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/four.png",
         "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/five.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -950,7 +965,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -960,7 +974,6 @@
             "BT": "V5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": " A2DP, AVRCP, HFP, SPP, AVDTP",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -992,13 +1005,12 @@
         }
       ]
     },
-
     {
       "id": "9",
       "name": "Buds VS401",
       "desc": "Up To 50 hours of playtime, Low Latency (Up to 50 MS), Quad Mic| ENC, Hypersync, Instacharge ",
-      "price": "₹1,199",
-      "old_price": "₹3,499",
+      "price": "1199",
+      "old_price": "3499",
       "rating": "4.8",
       "rating_count": "(175)",
       "quantity": "222",
@@ -1007,7 +1019,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/one.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Jet_Black",
       "default_image": [
         "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/five.png",
@@ -1016,7 +1033,6 @@
         "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/two.png",
         "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/one.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -1090,7 +1106,6 @@
             "BT": "V5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": " SBC",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -1123,13 +1138,12 @@
         }
       ]
     },
-
     {
       "id": "10",
       "name": "Buds X Prime",
       "desc": "120H Playtime, Quad Mic ENC Calling, 50ms Low Latency, Dual Tone Finish ",
-      "price": "₹1,799",
-      "old_price": "₹4,499",
+      "price": "1799",
+      "old_price": "4499",
       "rating": "4.8",
       "rating_count": "(175)",
       "quantity": "222",
@@ -1138,7 +1152,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/five.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Sheen_Green",
       "default_image": [
         "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/five.png",
@@ -1148,7 +1167,6 @@
         "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/one.png",
         "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/six.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -1198,7 +1216,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -1208,7 +1225,6 @@
             "BT": "V5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": " SBC",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -1240,13 +1256,12 @@
         }
       ]
     },
-
     {
       "id": "11",
       "name": "Buds Combat Z",
       "desc": "Up To 50 hours of playtime, Ultra Low Latency, Quad Mic| ENC, 10mm Driver ",
-      "price": "₹1,299",
-      "old_price": "₹3,999",
+      "price": "1299",
+      "old_price": "3999",
       "rating": "5.0",
       "rating_count": "(24)",
       "quantity": "222",
@@ -1255,7 +1270,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/one.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Deep_Wline",
       "default_image": [
         "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/one.png",
@@ -1264,7 +1284,6 @@
         "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/four.png",
         "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/five.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -1282,7 +1301,6 @@
           "id": "2",
           "color_type": "Stealth_Black",
           "image": "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/one.png",
-
           "Stealth_Black": [
             "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/one.png",
             "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/two.png",
@@ -1313,7 +1331,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -1323,7 +1340,6 @@
             "BT": "5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": " SBC, AAC",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -1356,13 +1372,12 @@
         }
       ]
     },
-
     {
       "id": "12",
       "name": "Buds VS104 Max ANC",
       "desc": "ANC, Up to 45-hour Playtime, Tranperancy Mode, Quad Mic| ENC, 13mm Driver ",
-      "price": "₹1,799",
-      "old_price": "₹4,499",
+      "price": "1799",
+      "old_price": "4499",
       "rating": "5.0",
       "rating_count": "(71)",
       "quantity": "222",
@@ -1371,7 +1386,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/two.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Rose_Gold",
       "default_image": [
         "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/one.png",
@@ -1380,7 +1400,6 @@
         "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/four.png",
         "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/five.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -1430,7 +1449,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -1440,7 +1458,6 @@
             "BT": "5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": " SBC",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -1473,20 +1490,24 @@
         }
       ]
     },
-
     {
       "id": "13",
       "name": "Buds VS106 50 Hr Playtime",
       "desc": "Up To 50 hours of playtime, 3 EQ Modes, Instacharge, Ultra low latency, Quad Mic| ENC ",
-      "price": "₹1,499",
-      "old_price": "₹4,499",
+      "price": "1499",
+      "old_price": "4499",
       "quantity": "1",
       "feature": true,
       "watch": false,
       "headphone": true,
       "category": "headphone",
       "image": "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/one.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Rose_Gold",
       "default_image": [
         "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/one.png",
@@ -1495,7 +1516,6 @@
         "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/four.png",
         "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/five.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -1545,7 +1565,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -1585,13 +1604,12 @@
         }
       ]
     },
-
     {
       "id": "14",
       "name": "Buds VS102 Neo",
       "desc": "Up to 40 hours of playtime, Quad mic with ENC, Instacharge, Hypersync, 11mm Driver ",
-      "price": "₹999",
-      "old_price": "₹3,499",
+      "price": "999",
+      "old_price": "3499",
       "rating": "4.0",
       "rating_count": "(1)",
       "quantity": "1",
@@ -1600,7 +1618,12 @@
       "headphone": true,
       "category": "headphone",
       "image": "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/two.png",
-      "watch_color": ["#F08080", "#454545", "#00FF00", "#FF0000"],
+      "watch_color": [
+        "#F08080",
+        "#454545",
+        "#00FF00",
+        "#FF0000"
+      ],
       "default_color_type": "Rose_Gold",
       "default_image": [
         "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/one.png",
@@ -1609,7 +1632,6 @@
         "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/four.png",
         "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/five.png"
       ],
-
       "color_Type": [
         {
           "id": "1",
@@ -1659,7 +1681,6 @@
           ]
         }
       ],
-
       "Spacification_paragraph": [
         {
           "audio": {
@@ -1669,7 +1690,6 @@
             "BT": "5.3",
             "Wireless_Range": "10m",
             "BT_Supported_Profile": " SBC",
-            
             "Compatibility": "Android & iOS"
           },
           "Battery_Charging": {
@@ -1702,5 +1722,31 @@
         }
       ]
     }
+  ],
+  "cart": [
+    [
+      {
+        "id": "1Fern_Green2",
+        "name": "Buds_Explore",
+        "price": "1399",
+        "old_price": "3999",
+        "quantity": "2",
+        "amount": 2,
+        "colorImage": "../assets/Product/Headphone/Buds_Explore/fern-Green/one.png",
+        "colorTextName": "Fern_Green"
+      }
+    ],
+    [
+      {
+        "id": "1Fern_Green2",
+        "name": "Buds_Explore",
+        "price": "1399",
+        "old_price": "3999",
+        "quantity": "2",
+        "amount": 2,
+        "colorImage": "../assets/Product/Headphone/Buds_Explore/fern-Green/one.png",
+        "colorTextName": "Fern_Green"
+      }
+    ]
   ]
 }
