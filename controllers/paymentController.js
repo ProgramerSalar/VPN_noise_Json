@@ -36,7 +36,8 @@ export const paymentVerifaction = async (req, res, next) => {
       // Database comes here 
   
       res.redirect(
-        `http://localhost:3000/paymentsuccess?reference=${razorpay_payment_id}`
+        // `http://localhost:3000/paymentsuccess?reference=${razorpay_payment_id}`
+        `${process.env.FRONTANT_URL_LINK}/hot-selling-product-collection?reference=${razorpay_payment_id}`
       )
   
     }else{
