@@ -108,3 +108,6 @@ you should install the pnpm because it's need to install the package
 # pnpm i
 ```
 
+
+Note: You should follow this documentation https://thapatechnical.shop/blogs/host-a-mern-stack-app-on-a-vps
+
