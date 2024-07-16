@@ -146,6 +146,9 @@ pm2 start npm --name "test_server" -- start
 pm2 ls
 pm2 logs test_server
 
+// if you kill the server | exit the server 
+pm2 kill
+
 // -- start (there is a space, Keep in mind)
 // To test our backend
 curl http://localhost:8000
@@ -167,11 +170,40 @@ pm2 -v
 // 5.3.0
 ```
 
+# Frontant setup
+
+- Go to frontend or client folder. Install all the dependencies and build the project:
 
 
 
+```
+pnpm i
+pnpm build
+npm run build
+bun run build
+
+// setup environment var
+nano .env
+// We already have some content in our repo so Edit the vite api url to 
+http://localhost:8000 
+// Note: To make it easier, please setup your project so that it uses API URL environment variable
+
+// as that's our server
+// Ctrl + O and Enter to save
+// Ctrl + X to exit
+```
+Run this command to preview our project:
 
 
+```
+pnpm preview --host
+```
+
+Now, Here we can’t see our website page, because of firewall. To make our PORT publicly accessible, we need to follow some steps.
+
+```
+sudo ufw allow 4173
+```
 
 
 
