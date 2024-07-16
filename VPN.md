@@ -1,5 +1,7 @@
 
 -------------------------------------------------------------------------
+Note: You should follow this documentation https://thapatechnical.shop/blogs/host-a-mern-stack-app-on-a-vps
+
 
 # how to setup vps surver in Hostinger: 
 
@@ -89,6 +91,10 @@ Authenticate the your github in nvm
 
 ```
 git clone https://github.com/ProgramerSalar/noise-json.git
+
+// if you delete the clone project 
+rm -rf /path/to/repository
+
 ```
 
 and then go to the project like 
@@ -107,7 +113,71 @@ you should install the pnpm because it's need to install the package
 # npm i pnpm --global
 # pnpm i
 ```
+### 2. Setup environment variables
+
+```
+nano .env // Nano is a shell based text editor which comes by default on linux
+
+// We have an environment variable named DB_URL so let's include it.
+MONGODB_URI=mongodb://127.0.0.1/vps-test-db
+JWT_SECRET=oHSLF&#WsA#WpJ!QCWLz7rCL5^sHgD62Qe8tgb3&SSscRu$sFi*L9MSSgnBM2*!$pyXS&XwHyK8RFFh2cboJv6vy5h#cnpBrymtF*@37!C@ohdHR48@%%4X!Az@wiyCe
+PORT=8000
+
+// Then press Ctrl + O and enter to save it.
+// The press Ctrl + X to exit out of nano.
+
+// Let's use "cat" command to see if everything is fine.
+// The cat command in Linux (short for "concatenate") is primarily used to display the contents of one or more files in the terminal.
+cat .env
+// This shows content of .env file
+```
+
+### 3. To fix this issue, we can use pm2.
+
+pm2 (Process Manager 2) is a popular process manager for Node.js applications. It is used to manage and monitor Node.js applications, ensuring they run reliably in production environments.
+
+pm2 simplifies the process of managing Node.js applications by allowing you to start, stop, restart, and monitor multiple Node.js processes with a single command.
 
 
-Note: You should follow this documentation https://thapatechnical.shop/blogs/host-a-mern-stack-app-on-a-vps
+
+```
+npm i -g pm2
+pm2 start npm --name "test_server" -- start
+pm2 ls
+pm2 logs test_server
+
+// -- start (there is a space, Keep in mind)
+// To test our backend
+curl http://localhost:8000
+// Note: In our backend we have a route for homepage so we are using it
+```
+
+
+Here's what each part of the command does:
+
+- pm2 start npm: This tells pm2 to use npm as the interpreter.
+
+- -name "test_server": This assigns the name "test_server" to the application.
+
+- -- start: This specifies that you want to run the "start" script defined in your package.json file.
+
+
+```
+pm2 -v
+// 5.3.0
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
