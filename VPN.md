@@ -5,6 +5,11 @@ Note: You should follow this documentation https://thapatechnical.shop/blogs/hos
 
 # how to setup vps surver in Hostinger: 
 
+- some linux command 
+```
+$ pwd   // known that which directory you have 
+```
+
 ## 0.0 Setup the VPS 
 
 1. You have the VPS Information Panal then i will teach you how too do ? 
@@ -199,11 +204,13 @@ Run this command to preview our project:
 
 ```
 pnpm preview --host
+npm preview -- --host
 ```
 
 Now, Here we can’t see our website page, because of firewall. To make our PORT publicly accessible, we need to follow some steps.
 
 ```
+sudo ufw enable
 sudo ufw allow 4173
 ```
 
@@ -212,6 +219,12 @@ This works but vite preview is not made for production. It’s recommended to us
 ```
 sudo ufw deny 4173 // We are just denying the port that we made public earlier.
 ```
+
+- if the you want to server is running to continousely 
+```
+pm2 start npm --name "react-app" -- run preview
+```
+
 
 ## 2. we will use the Nginx 
 
